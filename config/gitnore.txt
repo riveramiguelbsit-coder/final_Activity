@@ -1,0 +1,13 @@
+gitnore
+
+/uploads/*
+!/uploads/midterm/
+!/uploads/finals/
+
+/uploads/midterm/*
+!/uploads/midterm/.gitkeep
+
+/uploads/finals/*
+!/uploads/finals/.gitkeep
+
+config/database.php
